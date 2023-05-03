@@ -1,5 +1,11 @@
 # okim_project
 
+
+[프로젝트 보고서.docx](https://github.com/hallu0317/okim_project/files/11380429/default.docx)
+
+
+
+
 #### 메인화면
 ![메인](https://user-images.githubusercontent.com/76871198/235850662-ea870aab-ff95-469c-92b7-eb1e8d2349a1.png)
 
